@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CelestineAkpanoko
 - 👀 I’m interested in Software Engineering and Machine Learning.
 - 🌱 I’m currently working an intelligent chatbot system.
-- 💞️ I’m looking to collaborate on reactjs and php app.
+- 💞️ I’m looking to collaborate on javascript and python apps.
 - 📫 How to reach me: celestineakpanoko@gmail.com
 
 <!---
