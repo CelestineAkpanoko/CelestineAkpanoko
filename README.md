@@ -1,11 +1,11 @@
 <h3 style="font-family: 'Nunito', sans-serif; text-align: center; font-size: 1.2em; display: flex; align-items: center; justify-content: center; border-bottom: 2px solid;">Hi there, I'm Celestine Akpanoko!</h3>
 
-<h2 style="font-family: 'Nunito', sans-serif; font-size: 1.5em; display: flex; align-items: center; border-bottom: 2px solid;"><img src="./assets/img/information.svg" style="margin: 0 5px; width: calc(24px + 2 * 5px); height: 24px"/>About Me</h2>
+<h2 style="font-family: 'Nunito', sans-serif; font-size: 1.5em; display: flex; align-items: center; border-bottom: 2px solid;"><img src="https://github.com/B3zaleel/B3zaleel/blob/main/assets/img/information.svg" style="margin: 0 5px; width: calc(24px + 2 * 5px); height: 24px"/>About Me</h2>
 
 - 🔭 I’m currently working on an NLP Language Translator
 - 🌱 I’m currently learning ReactJS
 
-<h2 style="font-family: 'Nunito', sans-serif; font-size: 1.5em; display: flex; align-items: center; border-bottom: 2px solid;"><img src="./assets/img/chart-box.svg" style="margin: 0 5px; width: calc(24px + 2 * 5px); height: 24px"/>My GitHub Stats</h2>
+<h2 style="font-family: 'Nunito', sans-serif; font-size: 1.5em; display: flex; align-items: center; border-bottom: 2px solid;"><img src="https://github.com/B3zaleel/B3zaleel/blob/main/assets/img/chart-box.svg" style="margin: 0 5px; width: calc(24px + 2 * 5px); height: 24px"/>My GitHub Stats</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CelestineAkpanoko&show_icons=true&theme=prussian)
 
