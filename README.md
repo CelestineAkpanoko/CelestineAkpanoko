@@ -2,7 +2,7 @@
 
 <h2 style="font-family: 'Nunito', sans-serif; font-size: 1.5em; display: flex; align-items: center; border-bottom: 2px solid;"><img src="https://github.com/B3zaleel/B3zaleel/blob/main/assets/img/information.svg" style="margin: 0 5px; width: calc(24px + 2 * 5px); height: 24px"/>About Me</h2>
 
-- 🔭 I’m getting my PhD
+- MS in CS
 
 <h2 style="font-family: 'Nunito', sans-serif; font-size: 1.5em; display: flex; align-items: center; border-bottom: 2px solid;"><img src="https://github.com/B3zaleel/B3zaleel/blob/main/assets/img/chart-box.svg" style="margin: 0 5px; width: calc(24px + 2 * 5px); height: 24px"/>My GitHub Stats</h2>
 
