@@ -12,7 +12,6 @@ I’m Celestine Akpanoko, an **Application Engineer** passionate about building 
 
 - 🔭 **Current Focus:** Next.js, React, Machine Learning Engineering
 - 🌱 **Believer**
-- 🚀 **Favorite Project:** [shortstack](https://github.com/CelestineAkpanoko/shortstack)
 
 ---
 
