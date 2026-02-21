@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I’m Celestine Akpanoko, an **Application Engineer** passionate about building impactful software and leveraging technology to solve real-world problems.
+I’m Celestine Akpanoko, an **Software Engineer** passionate about building impactful software and leveraging technology to solve real-world problems.
 
 - 🔭 **Current Focus:** Next.js, React, Machine Learning Engineering
 - 🌱 **Believer**
